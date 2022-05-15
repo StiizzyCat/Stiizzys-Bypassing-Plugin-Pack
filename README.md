@@ -1,6 +1,6 @@
 # Make-Transparent-4-Noobs by stiizzyCat#0001
-A Paint.Net Plugin Edit of the plugin https://forums.getpaint.net/topic/109122-color-clearer/
-this is a simple plugin edit for the Alpha Values
+A Paint.Net Plugin Edit of the plugin https://forums.getpaint.net/topic/109122-color-clearer/ Credits to them!!!
+- this is a simple plugin edit for the Alpha Values
 - I learned simple else if in C# for this, ik im a noob but im planning to learn more C#
 - You can complile the source too using codelab! https://boltbait.com/pdn/codelab/CodeLabInstaller605.zip
 
