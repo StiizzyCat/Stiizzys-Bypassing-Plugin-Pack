@@ -1,4 +1,4 @@
-# Make-Transparent-4-Noobs
+# Make-Transparent-4-Noobs by stiizzyCat#0001
 A Paint.Net Plugin Edit of the plugin https://forums.getpaint.net/topic/109122-color-clearer/
 this is a simple plugin edit for the Alpha Values
 now there is only 2 Buttons
