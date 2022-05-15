@@ -1,8 +1,7 @@
-// Name: Make Transparent For Da Noobs - by Stiizzy Cat#0001
+// Name: Make Transparent 4 Noobs
 // Submenu:
 // Author: Stiizzy Cat#0001
-// Title: Make Transparent For Da Noobs - by Stiizzy Cat#0001
-// Version: 1
+// Title: Make Transparent 4 Noobs
 // Desc: Credits to the make transparent and color cleaer devs! this project would not be possible without their code! 
 // Keywords:
 // URL: https://forums.getpaint.net/topic/109122-color-clearer/
@@ -198,5 +197,3 @@ byte AdjustForAlphaa(int Af, int Cc, int Cb, int Cm)
     return (byte)Cm;
 }
 }
-
-
