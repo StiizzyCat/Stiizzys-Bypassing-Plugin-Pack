@@ -1,5 +1,5 @@
 // Name: Make Transparent 4 Noobs
-// Submenu:
+// Submenu: Bypassing
 // Author: Stiizzy Cat#0001
 // Title: Make Transparent 4 Noobs
 // Desc: Credits to the make transparent and color cleaer devs! this project would not be possible without their code! 
