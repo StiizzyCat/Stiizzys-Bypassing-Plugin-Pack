@@ -1,6 +1,9 @@
 # Stiizzys-Bypassing-Plugin-Pack
-Current Plugins ATM
-+ Make Transparent 4 noobs - an edit of color clearer but made for bypassers. no need to look at confusing RGB values anymore! - credits to the color clearer devs for the plugin source, this would not be possible without it! :3
+| Current Plugins  | Plugin Description |
+| ------------- | -------------  |
+| MakeTransparent4Noobs [E] | A mintified version of MakeTransparent/ColorClearer with the confusing stuff cut out!|
 
-# remember to get the latest release!!
 
+- [E] = edited plugin source
+- [SM] = self made plugin
+- Edits/plugins made by Ctiizzy Cat
