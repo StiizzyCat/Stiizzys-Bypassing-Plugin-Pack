@@ -7,16 +7,15 @@
 // URL: https://forums.getpaint.net/topic/109122-color-clearer/
 // Help:
 #region UICode
-CheckboxControl Amount1 = false; // {!Amount2} Make Transparent White
-CheckboxControl Amount2 = false; // {!Amount1} Make Transparent Black
+ListBoxControl Color2Show = 0; // Color To Show On|On White| On Black
 #endregion
 
 
 void Render(Surface dst, Surface src, Rectangle rect)
 {
-if (Amount1 == true)
+if (Color2Show  == 0)
 {
-    int Rbb = 255, Gbb = 255, Bbb = 255;
+    int Rbb = 256, Gbb = 256, Bbb = 256;
     int Rb = Rbb, Gb = Gbb, Bb = Bbb;
     // Save some later multiplications. Might or might not be more efficient.
     int sRb = 255 * Rb, sGb = 255 * Gb,  sBb = 255 * Bb;
@@ -106,7 +105,7 @@ byte AdjustForAlpha(int Af, int Cc, int Cb, int Cm)
     return (byte)Cm;
 }
 
-if(Amount2 == true)
+if(Color2Show  == 1)
 {
     int Rbbb = 0, Gbbb = 0, Bbbb = 0;
     int Rb = Rbbb, Gb = Gbbb, Bb = Bbbb;
